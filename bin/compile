@@ -9,7 +9,7 @@ CACHE_DIR=$2
 OS="linux"
 ARCH="x86_64"
 LINUX_DIST="ubuntu1804"
-VERSION="3.6.17"
+VERSION="3.6.22"
 
 # package
 PACKAGE_NAME="mongodb-${OS}-${ARCH}-${LINUX_DIST}-${VERSION}"

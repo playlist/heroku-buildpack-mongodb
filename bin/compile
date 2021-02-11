@@ -8,7 +8,7 @@ CACHE_DIR=$2
 # config
 OS="linux"
 ARCH="x86_64"
-LINUX_DIST="ubuntu2004"
+LINUX_DIST="ubuntu1804"
 VERSION="3.6.17"
 
 # package
